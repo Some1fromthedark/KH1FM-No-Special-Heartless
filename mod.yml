@@ -1,0 +1,45 @@
+title: KH1FM No Special Heartless
+originalAuthor: Some1fromthedark
+description: 0% Chance to spawn special heartless events
+dependencies: 
+assets:
+- name: al.wdt
+  method: copy
+  source:
+  - name: files/al.wdt
+- name: aw.wdt
+  method: copy
+  source:
+  - name: files/aw.wdt
+- name: ew.wdt
+  method: copy
+  source:
+  - name: files/ew.wdt
+- name: lm.wdt
+  method: copy
+  source:
+  - name: files/lm.wdt
+- name: nm.wdt
+  method: copy
+  source:
+  - name: files/nm.wdt
+- name: pc.wdt
+  method: copy
+  source:
+  - name: files/pc.wdt
+- name: pi.wdt
+  method: copy
+  source:
+  - name: files/pi.wdt
+- name: pp.wdt
+  method: copy
+  source:
+  - name: files/pp.wdt
+- name: tw.wdt
+  method: copy
+  source:
+  - name: files/tw.wdt
+- name: tz.wdt
+  method: copy
+  source:
+  - name: files/tz.wdt
