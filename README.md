@@ -81,7 +81,7 @@ There are two ways to install the patch, depending on which tool you prefer.
 
 - [OpenKH](https://github.com/OpenKH/OpenKh) for the modding tools and infrastructure.
 - [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) for PC patch installation support.
-- Special Thanks to **Bevans** from the OpenKH Discord Server for coming up with the idea for the mod and commissioning it.
+- Special Thanks to **NeverDie** from the OpenKH Discord Server for coming up with the idea for the mod and commissioning it.
 
 ## Issues and Feedback
 
